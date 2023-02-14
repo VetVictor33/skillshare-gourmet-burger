@@ -4,7 +4,7 @@ The projects was created while watching the Skillshare class taught by Chris Dix
 
 ## What it is?
 
-A single web page presenting a restaurant brand. It has a carousel, a dropdown menu, and a modal with a form.
+A single responsive web page presenting a restaurant brand. It has a carousel, a dropdown menu, and a modal with a form.
 
 ## Technology used
 
